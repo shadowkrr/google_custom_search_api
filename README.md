@@ -1,5 +1,5 @@
 # google_custom_search_api
- Collect new ice work information
+ use google_custom_search_api
 
 # how to use
 
